@@ -13,7 +13,7 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 
 const HandleChange = (e) => {
   console.log(e.target.value);
-  console.log("Ecribiendo...");
+  console.log("Escribiendo...");
 };
 
 const HandleClick = (e) => {
